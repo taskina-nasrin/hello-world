@@ -5,3 +5,6 @@ public class EX1 {
 
         message=custname+"wants to buy a" + itemdesc;
         System.out.println (message);
+          System.out.println (Hi);
+        }
+      }
